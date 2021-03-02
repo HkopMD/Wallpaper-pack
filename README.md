@@ -16,4 +16,4 @@ I find wallpapers in a number of different locations but good places to check ou
 
 ## Ownership
 
-Because I downloaded most of these from sites like Imgur, I have no way of knowing if there is a copyright on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it.
+Because I downloaded most of these from sites like Imgur, I have no way of knowing if there is a copyright on these images. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will remove it and let this repo know http://gitlab.com/dwt1/wallpapers .
