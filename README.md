@@ -1,5 +1,7 @@
 # HkopMD Wallpaper pack
 
+Download link: https://github.com/HkopMD/Wallpaper-pack/archive/main.zip
+
 ### Credit 
 
 This wallpaper pack is a fork for this repo: http://gitlab.com/dwt1/wallpapers
