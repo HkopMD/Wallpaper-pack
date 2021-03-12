@@ -12,7 +12,7 @@ This wallpaper pack is a fork for this repo: http://gitlab.com/dwt1/wallpapers
 ## Where Did I Get These?
 
 I find wallpapers in a number of different locations but good places to check out include [Imgur](http://imgur.com) and [unsplash](http://unsplash.com).
-
+I have removed and add imagers to it 
 
 ## Ownership
 
